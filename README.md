@@ -1,2 +1,2 @@
 # Hardware-Project
-Hardware codes
+Hardware project programmed using C Language
